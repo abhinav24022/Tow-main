@@ -1,6 +1,7 @@
 body {
   background-image: url('./image.jpg');
   background-size: cover;
+  animation: move-background 20s linear infinite;
 }
 .App {
   display: flex;
